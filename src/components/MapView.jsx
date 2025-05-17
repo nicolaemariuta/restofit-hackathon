@@ -48,6 +48,13 @@ function getNO2Color(value) {
   return "#00ff0066";
 }
 
+function getO3Color(value) {
+  if (value > 0.85) return "#ff000066";
+  if (value > 0.7) return "#ff880066";
+  if (value > 0.3) return "#ffff0066";
+  return "#00ff0066";
+}
+
 
 export default function MapView({ measurements, onMeasurementsChange, settings, data }) {
   const [markerPosition, setMarkerPosition] = useState(null);
@@ -61,11 +68,13 @@ export default function MapView({ measurements, onMeasurementsChange, settings, 
     const ndviValue = ndviPoint ? ndviPoint.NDVI : null;
 
     const no2Value = data.no2 ? getNO2ValueFromGrid(data.no2, lat, lon) : null;
+    const o3Value = data.o3 ? getNO2ValueFromGrid(data.o3, lat, lon) : null;
 
     onMeasurementsChange({
       ...measurements,
       NDVI: ndviValue,
       NO2: no2Value,
+      O3: o3Value,
       coords: { lat, lon }
     });
   };
@@ -73,6 +82,7 @@ export default function MapView({ measurements, onMeasurementsChange, settings, 
   useEffect(() => {
     console.log("NDVI Points:", data.ndvi);
     console.log("NO2 Grid:", data.no2);
+    console.log("O3 Grid:", data.o3);
     console.log("Events:", data.events);
   }, [data]);
 
@@ -161,6 +171,45 @@ export default function MapView({ measurements, onMeasurementsChange, settings, 
 
           return rectangles;
         })()}
+
+
+        {/* Drawing O3 overlay */}
+        {(settings.layer === "O3") && data.no2 && (() => {
+          const { bbox, rows, cols, data: o3Data } = data.o3;
+          const [minLon, minLat, maxLon, maxLat] = bbox;
+
+          const latStep = (maxLat - minLat) / rows;
+          const lonStep = (maxLon - minLon) / cols;
+
+          const rectangles = [];
+
+          for (let row = 0; row < rows; row++) {
+            for (let col = 0; col < cols; col++) {
+              const value = o3Data[row][col];
+
+              const bounds = [
+                [minLat + row * latStep, minLon + col * lonStep],
+                [minLat + (row + 1) * latStep, minLon + (col + 1) * lonStep],
+              ];
+
+              rectangles.push(
+                <Rectangle
+                  key={`${row}-${col}`}
+                  bounds={bounds}
+                  pathOptions={{
+                    color: getO3Color(value),
+                    fillColor: getO3Color(value),
+                    fillOpacity: 0.6,
+                    weight: 0,
+                  }}
+                />
+              );
+            }
+          }
+
+          return rectangles;
+        })()}
+
 
       </MapContainer>
     </div>

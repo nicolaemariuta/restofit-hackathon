@@ -50,6 +50,7 @@ export default function ControlPanel({ measurements, settings, onSettingsChange 
                     <option value="NONE">none</option>
                     <option value="NDVI">NDVI</option>
                     <option value="NO2">NO₂</option>
+                    <option value="O3">O3</option>
                 </select>
             </div>
 
@@ -97,6 +98,27 @@ export default function ControlPanel({ measurements, settings, onSettingsChange 
                     <div className="flex items-center justify-between h-6">
                         <p className="text-xs text-blue-300">
                             {measurements.NO2.toFixed(3)}
+                        </p>
+                        <div
+                            className="w-6 h-6  ml-2 rounded-sm"
+                            style={{
+                                backgroundColor: getNO2Color(measurements.NO2),
+                            }}
+                        />
+                    </div>
+                ) : (
+                    <p className="text-xs text-gray-400">None selected</p>
+                )}
+            </div>
+
+
+            <div className="mt-6">
+                <p className="text-sm mb-1 text-black">O3:</p>
+
+                {measurements.NO2 != null ? (
+                    <div className="flex items-center justify-between h-6">
+                        <p className="text-xs text-blue-300">
+                            {measurements.O3.toFixed(3)}
                         </p>
                         <div
                             className="w-6 h-6  ml-2 rounded-sm"

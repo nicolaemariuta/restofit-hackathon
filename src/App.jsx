@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { loadNDVI, loadNO2, loadEvents} from './utils/dataLoader'
+import { loadNDVI, loadNO2, loadO3, loadEvents } from './utils/dataLoader'
 
 import Header from './components/Header'
 import MapView from './components/MapView'
@@ -12,7 +12,8 @@ function App() {
   const [measurements, setMeasurements] = useState({
     coords: null,
     NDVI: null,
-    NO2: null
+    NO2: null,
+    O3: null,
   })
 
   const [settings, setSettings] = useState({
@@ -25,6 +26,7 @@ function App() {
   const [data, setData] = useState({
     ndvi: [],
     no2: null,
+    o3: null,
     events: []
   });
 
@@ -32,8 +34,9 @@ function App() {
     async function fetchData() {
       const ndvi = await loadNDVI(settings.city);
       const no2 = await loadNO2(settings.city);
+      const o3 = await loadO3(settings.city);
       const events = await loadEvents();
-      setData({ ndvi, no2, events });
+      setData({ ndvi, no2, o3, events });
     }
 
     fetchData();
@@ -54,7 +57,7 @@ function App() {
 
         <div className="w-1/4 bg-gray-100 p-4">
           <ControlPanel
-            measurements = {measurements}
+            measurements={measurements}
             settings={settings}
             onSettingsChange={setSettings}
           />
