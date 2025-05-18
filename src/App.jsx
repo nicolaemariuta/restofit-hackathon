@@ -47,10 +47,10 @@ function App() {
   }, [settings.city]); // Re-load data when switching cities
 
   return (
-    <div className="bg-gray-900 min-h-screen text-white">
+    <div className="bg-[#cfe4ff] min-h-screen text-white">
       <Header />
       <main className="pt-20 px-4 flex h-[calc(100vh-5rem)]">
-        <div className="w-4/5 bg-gray-800 p-4">
+        <div className="w-4/5  p-4">
           <MapView
             measurements={measurements}
             onMeasurementsChange={setMeasurements}
@@ -59,7 +59,7 @@ function App() {
           />
         </div>
 
-        <div className="w-1/4 bg-gray-100 p-4">
+        <div className="w-1/4  p-4">
           <ControlPanel
             measurements={measurements}
             settings={settings}
