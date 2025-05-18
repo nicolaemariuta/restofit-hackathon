@@ -1,0 +1,3203 @@
+[
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 4
+    },
+    "description": "A group stroll to enjoy and photograph urban flora.",
+    "participants": 18,
+    "tags": [
+      "plants",
+      "walking",
+      "permaculture"
+    ],
+    "lat": 44.454028,
+    "lon": 26.022525
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 4
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 4,
+    "tags": [
+      "walking",
+      "permaculture"
+    ],
+    "lat": 44.350787,
+    "lon": 26.168657
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 3,
+    "tags": [
+      "walking",
+      "plants",
+      "wellbeing",
+      "community"
+    ],
+    "lat": 44.484174,
+    "lon": 26.120368
+  },
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 3
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 14,
+    "tags": [
+      "wellbeing",
+      "gardening",
+      "community",
+      "nature"
+    ],
+    "lat": 44.546839,
+    "lon": 25.968659
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 4
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 15,
+    "tags": [
+      "fishing",
+      "nature",
+      "gardening"
+    ],
+    "lat": 44.367715,
+    "lon": 26.221193
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 3
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 7,
+    "tags": [
+      "foraging",
+      "community",
+      "nature"
+    ],
+    "lat": 44.420021,
+    "lon": 26.263759
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 4
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 9,
+    "tags": [
+      "foraging",
+      "wellbeing",
+      "walking",
+      "nature"
+    ],
+    "lat": 44.411746,
+    "lon": 26.256383
+  },
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 4
+    },
+    "description": "Discover edible wild plants in the heart of the city.",
+    "participants": 3,
+    "tags": [
+      "plants",
+      "gardening",
+      "community",
+      "walking"
+    ],
+    "lat": 44.421485,
+    "lon": 26.13244
+  },
+  {
+    "title": "Fishing Basics by the Lake",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 3
+    },
+    "description": "Let\u2019s learn and relax surrounded by nature.",
+    "participants": 5,
+    "tags": [
+      "plants",
+      "nature"
+    ],
+    "lat": 44.400632,
+    "lon": 26.152189
+  },
+  {
+    "title": "Park Picnic & Plant ID",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 5
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 19,
+    "tags": [
+      "nature",
+      "community"
+    ],
+    "lat": 44.381375,
+    "lon": 26.152731
+  },
+  {
+    "title": "Fishing Basics by the Lake",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 3
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 10,
+    "tags": [
+      "walking",
+      "nature",
+      "permaculture",
+      "wellbeing"
+    ],
+    "lat": 44.355355,
+    "lon": 26.218312
+  },
+  {
+    "title": "Fishing Basics by the Lake",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 3
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 18,
+    "tags": [
+      "community",
+      "nature",
+      "plants"
+    ],
+    "lat": 44.414913,
+    "lon": 26.244861
+  },
+  {
+    "title": "Wildflower Spotting",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 5
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 18,
+    "tags": [
+      "foraging",
+      "nature"
+    ],
+    "lat": 44.436165,
+    "lon": 26.158604
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Let\u2019s learn and relax surrounded by nature.",
+    "participants": 18,
+    "tags": [
+      "fishing",
+      "nature",
+      "foraging"
+    ],
+    "lat": 44.493784,
+    "lon": 25.964751
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 5
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 6,
+    "tags": [
+      "plants",
+      "gardening"
+    ],
+    "lat": 44.476297,
+    "lon": 26.283945
+  },
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 4
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 14,
+    "tags": [
+      "foraging",
+      "fishing"
+    ],
+    "lat": 44.508368,
+    "lon": 26.123278
+  },
+  {
+    "title": "Park Picnic & Plant ID",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 3
+    },
+    "description": "Let\u2019s learn and relax surrounded by nature.",
+    "participants": 13,
+    "tags": [
+      "permaculture",
+      "community",
+      "walking",
+      "foraging"
+    ],
+    "lat": 44.466255,
+    "lon": 26.140981
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 4
+    },
+    "description": "A group stroll to enjoy and photograph urban flora.",
+    "participants": 12,
+    "tags": [
+      "permaculture",
+      "plants",
+      "foraging",
+      "gardening"
+    ],
+    "lat": 44.359696,
+    "lon": 26.199977
+  },
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Join us for a peaceful afternoon learning about plants.",
+    "participants": 10,
+    "tags": [
+      "permaculture",
+      "walking",
+      "wellbeing",
+      "nature"
+    ],
+    "lat": 44.38355,
+    "lon": 26.001058
+  },
+  {
+    "title": "Wildflower Spotting",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 5
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 14,
+    "tags": [
+      "gardening",
+      "walking",
+      "fishing",
+      "permaculture"
+    ],
+    "lat": 44.351119,
+    "lon": 26.187463
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 5
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 11,
+    "tags": [
+      "community",
+      "permaculture"
+    ],
+    "lat": 44.473917,
+    "lon": 26.261271
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 4
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 6,
+    "tags": [
+      "permaculture",
+      "nature",
+      "wellbeing"
+    ],
+    "lat": 44.357314,
+    "lon": 26.05413
+  },
+  {
+    "title": "Composting 101",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 3
+    },
+    "description": "Discover edible wild plants in the heart of the city.",
+    "participants": 10,
+    "tags": [
+      "community",
+      "wellbeing",
+      "fishing"
+    ],
+    "lat": 44.390657,
+    "lon": 26.166411
+  },
+  {
+    "title": "Park Picnic & Plant ID",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 3
+    },
+    "description": "Discover edible wild plants in the heart of the city.",
+    "participants": 19,
+    "tags": [
+      "fishing",
+      "nature"
+    ],
+    "lat": 44.47128,
+    "lon": 26.150286
+  },
+  {
+    "title": "Park Picnic & Plant ID",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 4
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 17,
+    "tags": [
+      "nature",
+      "foraging",
+      "permaculture",
+      "fishing"
+    ],
+    "lat": 44.516007,
+    "lon": 26.170888
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 5
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 8,
+    "tags": [
+      "wellbeing",
+      "permaculture",
+      "gardening"
+    ],
+    "lat": 44.421643,
+    "lon": 26.252802
+  },
+  {
+    "title": "Wildflower Spotting",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 5
+    },
+    "description": "Join us for a peaceful afternoon learning about plants.",
+    "participants": 6,
+    "tags": [
+      "plants",
+      "wellbeing",
+      "foraging",
+      "permaculture"
+    ],
+    "lat": 44.398101,
+    "lon": 26.237778
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 3
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 8,
+    "tags": [
+      "permaculture",
+      "walking",
+      "gardening",
+      "plants"
+    ],
+    "lat": 44.545931,
+    "lon": 25.95388
+  },
+  {
+    "title": "Fishing Basics by the Lake",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 3
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 5,
+    "tags": [
+      "foraging",
+      "wellbeing",
+      "community"
+    ],
+    "lat": 44.46345,
+    "lon": 25.976538
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 19,
+    "tags": [
+      "fishing",
+      "walking",
+      "gardening",
+      "permaculture"
+    ],
+    "lat": 44.536345,
+    "lon": 26.095326
+  },
+  {
+    "title": "Fishing Basics by the Lake",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 3
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 4,
+    "tags": [
+      "foraging",
+      "nature"
+    ],
+    "lat": 44.376387,
+    "lon": 26.187918
+  },
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 5
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 15,
+    "tags": [
+      "nature",
+      "gardening",
+      "plants"
+    ],
+    "lat": 44.387942,
+    "lon": 26.147387
+  },
+  {
+    "title": "Park Picnic & Plant ID",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 3
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 17,
+    "tags": [
+      "plants",
+      "permaculture"
+    ],
+    "lat": 44.43981,
+    "lon": 26.11737
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 3
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 5,
+    "tags": [
+      "foraging",
+      "fishing",
+      "nature"
+    ],
+    "lat": 44.484206,
+    "lon": 26.136403
+  },
+  {
+    "title": "Wildflower Spotting",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Join us for a peaceful afternoon learning about plants.",
+    "participants": 10,
+    "tags": [
+      "community",
+      "gardening",
+      "fishing",
+      "plants"
+    ],
+    "lat": 44.438246,
+    "lon": 25.985838
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 5,
+    "tags": [
+      "gardening",
+      "walking",
+      "permaculture",
+      "foraging"
+    ],
+    "lat": 44.397111,
+    "lon": 26.294788
+  },
+  {
+    "title": "Park Picnic & Plant ID",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 3
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 9,
+    "tags": [
+      "foraging",
+      "fishing",
+      "wellbeing",
+      "nature"
+    ],
+    "lat": 44.428168,
+    "lon": 26.257813
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 4
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 5,
+    "tags": [
+      "gardening",
+      "plants"
+    ],
+    "lat": 44.411735,
+    "lon": 25.997361
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 4
+    },
+    "description": "A group stroll to enjoy and photograph urban flora.",
+    "participants": 13,
+    "tags": [
+      "wellbeing",
+      "foraging",
+      "walking"
+    ],
+    "lat": 44.470171,
+    "lon": 26.029817
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 4
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 5,
+    "tags": [
+      "permaculture",
+      "wellbeing"
+    ],
+    "lat": 44.545417,
+    "lon": 26.071553
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 20,
+    "tags": [
+      "nature",
+      "gardening",
+      "wellbeing",
+      "walking"
+    ],
+    "lat": 44.542453,
+    "lon": 26.044208
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 4
+    },
+    "description": "A group stroll to enjoy and photograph urban flora.",
+    "participants": 6,
+    "tags": [
+      "permaculture",
+      "wellbeing",
+      "nature",
+      "gardening"
+    ],
+    "lat": 44.432232,
+    "lon": 25.952473
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 4
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 10,
+    "tags": [
+      "gardening",
+      "foraging",
+      "permaculture"
+    ],
+    "lat": 44.369748,
+    "lon": 26.015768
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 3
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 2,
+    "tags": [
+      "gardening",
+      "community"
+    ],
+    "lat": 44.444778,
+    "lon": 26.223346
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 4
+    },
+    "description": "Join us for a peaceful afternoon learning about plants.",
+    "participants": 18,
+    "tags": [
+      "wellbeing",
+      "community",
+      "nature",
+      "walking"
+    ],
+    "lat": 44.534335,
+    "lon": 25.98261
+  },
+  {
+    "title": "Gardening Workshop",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 3
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 7,
+    "tags": [
+      "fishing",
+      "community",
+      "plants",
+      "nature"
+    ],
+    "lat": 44.433045,
+    "lon": 26.038626
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 11,
+    "tags": [
+      "wellbeing",
+      "fishing",
+      "gardening",
+      "community"
+    ],
+    "lat": 44.514625,
+    "lon": 26.25462
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 3
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 17,
+    "tags": [
+      "plants",
+      "wellbeing",
+      "foraging",
+      "fishing"
+    ],
+    "lat": 44.474425,
+    "lon": 26.152256
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 3
+    },
+    "description": "Discover edible wild plants in the heart of the city.",
+    "participants": 4,
+    "tags": [
+      "walking",
+      "nature",
+      "foraging",
+      "permaculture"
+    ],
+    "lat": 44.448622,
+    "lon": 26.06547
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 5
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 8,
+    "tags": [
+      "plants",
+      "gardening",
+      "foraging"
+    ],
+    "lat": 44.545288,
+    "lon": 26.296894
+  },
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 4
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 8,
+    "tags": [
+      "community",
+      "walking",
+      "foraging"
+    ],
+    "lat": 44.377745,
+    "lon": 26.081131
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 4
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 14,
+    "tags": [
+      "gardening",
+      "community",
+      "walking",
+      "foraging"
+    ],
+    "lat": 44.533584,
+    "lon": 26.149696
+  },
+  {
+    "title": "Wildflower Spotting",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 3
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 3,
+    "tags": [
+      "community",
+      "permaculture"
+    ],
+    "lat": 44.499386,
+    "lon": 26.13453
+  },
+  {
+    "title": "Wildflower Spotting",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 5
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 8,
+    "tags": [
+      "plants",
+      "fishing",
+      "community",
+      "gardening"
+    ],
+    "lat": 44.446353,
+    "lon": 26.231551
+  },
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 3
+    },
+    "description": "Discover edible wild plants in the heart of the city.",
+    "participants": 2,
+    "tags": [
+      "permaculture",
+      "gardening"
+    ],
+    "lat": 44.507142,
+    "lon": 26.216143
+  },
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 3
+    },
+    "description": "Join us for a peaceful afternoon learning about plants.",
+    "participants": 5,
+    "tags": [
+      "fishing",
+      "wellbeing"
+    ],
+    "lat": 44.463021,
+    "lon": 26.097562
+  },
+  {
+    "title": "Composting 101",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 4
+    },
+    "description": "Let\u2019s learn and relax surrounded by nature.",
+    "participants": 9,
+    "tags": [
+      "wellbeing",
+      "gardening"
+    ],
+    "lat": 44.486804,
+    "lon": 26.217452
+  },
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 5
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 13,
+    "tags": [
+      "permaculture",
+      "nature"
+    ],
+    "lat": 44.499164,
+    "lon": 26.182701
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 4
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 10,
+    "tags": [
+      "community",
+      "fishing",
+      "foraging"
+    ],
+    "lat": 44.473848,
+    "lon": 26.072574
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 5
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 4,
+    "tags": [
+      "wellbeing",
+      "gardening",
+      "fishing"
+    ],
+    "lat": 44.370922,
+    "lon": 26.14045
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 3
+    },
+    "description": "Let\u2019s learn and relax surrounded by nature.",
+    "participants": 12,
+    "tags": [
+      "plants",
+      "foraging"
+    ],
+    "lat": 44.444769,
+    "lon": 26.117779
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 4
+    },
+    "description": "Let\u2019s learn and relax surrounded by nature.",
+    "participants": 4,
+    "tags": [
+      "permaculture",
+      "plants",
+      "fishing"
+    ],
+    "lat": 44.458629,
+    "lon": 26.186712
+  },
+  {
+    "title": "Park Picnic & Plant ID",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 3
+    },
+    "description": "A group stroll to enjoy and photograph urban flora.",
+    "participants": 3,
+    "tags": [
+      "gardening",
+      "community"
+    ],
+    "lat": 44.455995,
+    "lon": 26.127429
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 4
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 18,
+    "tags": [
+      "gardening",
+      "fishing"
+    ],
+    "lat": 44.388507,
+    "lon": 26.106091
+  },
+  {
+    "title": "Wildflower Spotting",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 4
+    },
+    "description": "Join us for a peaceful afternoon learning about plants.",
+    "participants": 3,
+    "tags": [
+      "walking",
+      "fishing",
+      "nature"
+    ],
+    "lat": 44.496383,
+    "lon": 26.139253
+  },
+  {
+    "title": "Park Picnic & Plant ID",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 3
+    },
+    "description": "Join us for a peaceful afternoon learning about plants.",
+    "participants": 8,
+    "tags": [
+      "wellbeing",
+      "foraging",
+      "community",
+      "fishing"
+    ],
+    "lat": 44.469602,
+    "lon": 26.06415
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 3
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 8,
+    "tags": [
+      "nature",
+      "community",
+      "permaculture"
+    ],
+    "lat": 44.396685,
+    "lon": 26.027642
+  },
+  {
+    "title": "Wildflower Spotting",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 4
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 6,
+    "tags": [
+      "foraging",
+      "walking",
+      "nature",
+      "community"
+    ],
+    "lat": 44.441168,
+    "lon": 26.13217
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 4
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 17,
+    "tags": [
+      "foraging",
+      "fishing"
+    ],
+    "lat": 44.389026,
+    "lon": 26.056328
+  },
+  {
+    "title": "Fishing Basics by the Lake",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 4
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 5,
+    "tags": [
+      "plants",
+      "wellbeing"
+    ],
+    "lat": 44.49751,
+    "lon": 25.986919
+  },
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 4
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 12,
+    "tags": [
+      "permaculture",
+      "gardening",
+      "walking"
+    ],
+    "lat": 44.370755,
+    "lon": 26.068768
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 5
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 3,
+    "tags": [
+      "community",
+      "wellbeing",
+      "foraging"
+    ],
+    "lat": 44.449579,
+    "lon": 26.012111
+  },
+  {
+    "title": "Gardening Workshop",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 4
+    },
+    "description": "Let\u2019s learn and relax surrounded by nature.",
+    "participants": 2,
+    "tags": [
+      "gardening",
+      "plants"
+    ],
+    "lat": 44.380805,
+    "lon": 25.990069
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 4
+    },
+    "description": "Let\u2019s learn and relax surrounded by nature.",
+    "participants": 12,
+    "tags": [
+      "walking",
+      "fishing"
+    ],
+    "lat": 44.351305,
+    "lon": 26.214645
+  },
+  {
+    "title": "Gardening Workshop",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 4
+    },
+    "description": "A group stroll to enjoy and photograph urban flora.",
+    "participants": 7,
+    "tags": [
+      "plants",
+      "gardening",
+      "foraging"
+    ],
+    "lat": 44.523308,
+    "lon": 26.055061
+  },
+  {
+    "title": "Gardening Workshop",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 5
+    },
+    "description": "Let\u2019s learn and relax surrounded by nature.",
+    "participants": 16,
+    "tags": [
+      "nature",
+      "wellbeing",
+      "permaculture"
+    ],
+    "lat": 44.479052,
+    "lon": 26.123188
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 5
+    },
+    "description": "Discover edible wild plants in the heart of the city.",
+    "participants": 9,
+    "tags": [
+      "foraging",
+      "fishing",
+      "permaculture"
+    ],
+    "lat": 44.358197,
+    "lon": 26.029028
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 3
+    },
+    "description": "Join us for a peaceful afternoon learning about plants.",
+    "participants": 5,
+    "tags": [
+      "fishing",
+      "gardening",
+      "foraging"
+    ],
+    "lat": 44.432514,
+    "lon": 26.09416
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 3
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 13,
+    "tags": [
+      "fishing",
+      "plants",
+      "wellbeing"
+    ],
+    "lat": 44.367945,
+    "lon": 26.115942
+  },
+  {
+    "title": "Composting 101",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 3
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 13,
+    "tags": [
+      "walking",
+      "gardening",
+      "foraging"
+    ],
+    "lat": 44.533181,
+    "lon": 26.126947
+  },
+  {
+    "title": "Gardening Workshop",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 5
+    },
+    "description": "Discover edible wild plants in the heart of the city.",
+    "participants": 13,
+    "tags": [
+      "permaculture",
+      "walking"
+    ],
+    "lat": 44.540649,
+    "lon": 26.257014
+  },
+  {
+    "title": "Wildflower Spotting",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 5
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 7,
+    "tags": [
+      "walking",
+      "plants",
+      "community"
+    ],
+    "lat": 44.518181,
+    "lon": 26.047512
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 5
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 15,
+    "tags": [
+      "walking",
+      "nature",
+      "permaculture"
+    ],
+    "lat": 44.44472,
+    "lon": 26.286283
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Join us for a peaceful afternoon learning about plants.",
+    "participants": 10,
+    "tags": [
+      "plants",
+      "wellbeing"
+    ],
+    "lat": 44.425571,
+    "lon": 26.099432
+  },
+  {
+    "title": "Park Picnic & Plant ID",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 3
+    },
+    "description": "Join us for a peaceful afternoon learning about plants.",
+    "participants": 8,
+    "tags": [
+      "permaculture",
+      "fishing",
+      "foraging"
+    ],
+    "lat": 44.45815,
+    "lon": 26.184294
+  },
+  {
+    "title": "Gardening Workshop",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 5
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 12,
+    "tags": [
+      "community",
+      "wellbeing",
+      "permaculture"
+    ],
+    "lat": 44.411339,
+    "lon": 26.183371
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 5
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 20,
+    "tags": [
+      "permaculture",
+      "nature",
+      "walking",
+      "fishing"
+    ],
+    "lat": 44.513045,
+    "lon": 26.074386
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 4
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 9,
+    "tags": [
+      "gardening",
+      "permaculture",
+      "fishing",
+      "foraging"
+    ],
+    "lat": 44.464588,
+    "lon": 26.276133
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 13,
+    "tags": [
+      "gardening",
+      "walking"
+    ],
+    "lat": 44.355191,
+    "lon": 26.03336
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 3
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 6,
+    "tags": [
+      "community",
+      "plants"
+    ],
+    "lat": 44.384011,
+    "lon": 26.186987
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 3
+    },
+    "description": "Let\u2019s learn and relax surrounded by nature.",
+    "participants": 3,
+    "tags": [
+      "community",
+      "foraging"
+    ],
+    "lat": 44.391577,
+    "lon": 26.052764
+  },
+  {
+    "title": "Fishing Basics by the Lake",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 4
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 17,
+    "tags": [
+      "foraging",
+      "gardening",
+      "wellbeing",
+      "community"
+    ],
+    "lat": 44.431841,
+    "lon": 26.294075
+  },
+  {
+    "title": "Gardening Workshop",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 4
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 14,
+    "tags": [
+      "walking",
+      "plants",
+      "nature",
+      "foraging"
+    ],
+    "lat": 44.405311,
+    "lon": 25.996737
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 4
+    },
+    "description": "A group stroll to enjoy and photograph urban flora.",
+    "participants": 20,
+    "tags": [
+      "fishing",
+      "gardening",
+      "plants",
+      "foraging"
+    ],
+    "lat": 44.542565,
+    "lon": 26.180222
+  },
+  {
+    "title": "Gardening Workshop",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 3
+    },
+    "description": "Join us for a peaceful afternoon learning about plants.",
+    "participants": 12,
+    "tags": [
+      "foraging",
+      "plants"
+    ],
+    "lat": 44.376403,
+    "lon": 26.090513
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 5
+    },
+    "description": "Join us for a peaceful afternoon learning about plants.",
+    "participants": 13,
+    "tags": [
+      "gardening",
+      "community",
+      "fishing"
+    ],
+    "lat": 44.4173,
+    "lon": 26.098543
+  },
+  {
+    "title": "Fishing Basics by the Lake",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 5
+    },
+    "description": "Let\u2019s learn and relax surrounded by nature.",
+    "participants": 17,
+    "tags": [
+      "foraging",
+      "fishing"
+    ],
+    "lat": 44.522668,
+    "lon": 26.139845
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 5
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 14,
+    "tags": [
+      "permaculture",
+      "plants"
+    ],
+    "lat": 44.459765,
+    "lon": 26.097711
+  },
+  {
+    "title": "Park Picnic & Plant ID",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 3
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 4,
+    "tags": [
+      "walking",
+      "plants",
+      "fishing",
+      "nature"
+    ],
+    "lat": 44.497007,
+    "lon": 26.273596
+  },
+  {
+    "title": "Park Picnic & Plant ID",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 4
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 10,
+    "tags": [
+      "permaculture",
+      "gardening",
+      "foraging",
+      "wellbeing"
+    ],
+    "lat": 44.369301,
+    "lon": 26.099193
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 4
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 16,
+    "tags": [
+      "permaculture",
+      "wellbeing"
+    ],
+    "lat": 44.468391,
+    "lon": 26.101817
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 4
+    },
+    "description": "A group stroll to enjoy and photograph urban flora.",
+    "participants": 12,
+    "tags": [
+      "community",
+      "nature"
+    ],
+    "lat": 44.478634,
+    "lon": 26.190952
+  },
+  {
+    "title": "Wildflower Spotting",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 3
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 2,
+    "tags": [
+      "foraging",
+      "community",
+      "nature",
+      "fishing"
+    ],
+    "lat": 44.351501,
+    "lon": 26.061691
+  },
+  {
+    "title": "Park Picnic & Plant ID",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 5
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 10,
+    "tags": [
+      "plants",
+      "fishing"
+    ],
+    "lat": 44.361413,
+    "lon": 26.053228
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 3
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 5,
+    "tags": [
+      "gardening",
+      "plants"
+    ],
+    "lat": 44.517261,
+    "lon": 26.088688
+  },
+  {
+    "title": "Composting 101",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Let\u2019s learn and relax surrounded by nature.",
+    "participants": 7,
+    "tags": [
+      "plants",
+      "permaculture",
+      "foraging",
+      "community"
+    ],
+    "lat": 44.380135,
+    "lon": 26.176082
+  },
+  {
+    "title": "Gardening Workshop",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 4
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 8,
+    "tags": [
+      "foraging",
+      "community",
+      "wellbeing"
+    ],
+    "lat": 44.351269,
+    "lon": 25.984418
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 4
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 15,
+    "tags": [
+      "gardening",
+      "permaculture",
+      "community",
+      "walking"
+    ],
+    "lat": 44.418381,
+    "lon": 26.058533
+  },
+  {
+    "title": "Gardening Workshop",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 4
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 19,
+    "tags": [
+      "wellbeing",
+      "foraging"
+    ],
+    "lat": 44.40445,
+    "lon": 26.127308
+  },
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 3
+    },
+    "description": "Let\u2019s learn and relax surrounded by nature.",
+    "participants": 19,
+    "tags": [
+      "community",
+      "plants"
+    ],
+    "lat": 44.440346,
+    "lon": 26.171824
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 3
+    },
+    "description": "Join us for a peaceful afternoon learning about plants.",
+    "participants": 13,
+    "tags": [
+      "gardening",
+      "plants",
+      "walking",
+      "foraging"
+    ],
+    "lat": 44.378464,
+    "lon": 26.024811
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 4
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 4,
+    "tags": [
+      "foraging",
+      "permaculture",
+      "nature",
+      "fishing"
+    ],
+    "lat": 44.456644,
+    "lon": 26.114032
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 3
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 4,
+    "tags": [
+      "community",
+      "fishing",
+      "wellbeing"
+    ],
+    "lat": 44.383727,
+    "lon": 26.055781
+  },
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 4
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 5,
+    "tags": [
+      "plants",
+      "foraging",
+      "nature",
+      "community"
+    ],
+    "lat": 44.462339,
+    "lon": 26.000558
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 4
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 19,
+    "tags": [
+      "nature",
+      "plants",
+      "walking"
+    ],
+    "lat": 44.416289,
+    "lon": 26.112234
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 5
+    },
+    "description": "Join us for a peaceful afternoon learning about plants.",
+    "participants": 5,
+    "tags": [
+      "nature",
+      "plants",
+      "gardening",
+      "community"
+    ],
+    "lat": 44.416145,
+    "lon": 26.22219
+  },
+  {
+    "title": "Gardening Workshop",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 4
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 5,
+    "tags": [
+      "wellbeing",
+      "permaculture"
+    ],
+    "lat": 44.4485,
+    "lon": 26.085073
+  },
+  {
+    "title": "Park Picnic & Plant ID",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 4
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 10,
+    "tags": [
+      "plants",
+      "wellbeing"
+    ],
+    "lat": 44.450354,
+    "lon": 26.049788
+  },
+  {
+    "title": "Fishing Basics by the Lake",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 4
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 18,
+    "tags": [
+      "foraging",
+      "permaculture"
+    ],
+    "lat": 44.380556,
+    "lon": 26.063193
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 3
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 9,
+    "tags": [
+      "wellbeing",
+      "foraging",
+      "fishing",
+      "gardening"
+    ],
+    "lat": 44.523803,
+    "lon": 26.044234
+  },
+  {
+    "title": "Fishing Basics by the Lake",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 3
+    },
+    "description": "Let\u2019s learn and relax surrounded by nature.",
+    "participants": 11,
+    "tags": [
+      "fishing",
+      "nature",
+      "community",
+      "wellbeing"
+    ],
+    "lat": 44.533643,
+    "lon": 26.0139
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 4
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 9,
+    "tags": [
+      "permaculture",
+      "foraging",
+      "plants"
+    ],
+    "lat": 44.451519,
+    "lon": 26.196673
+  },
+  {
+    "title": "Gardening Workshop",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 5
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 9,
+    "tags": [
+      "walking",
+      "fishing"
+    ],
+    "lat": 44.388597,
+    "lon": 26.006042
+  },
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 4
+    },
+    "description": "Discover edible wild plants in the heart of the city.",
+    "participants": 17,
+    "tags": [
+      "community",
+      "permaculture",
+      "walking",
+      "wellbeing"
+    ],
+    "lat": 44.436958,
+    "lon": 26.197553
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 4
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 9,
+    "tags": [
+      "nature",
+      "gardening"
+    ],
+    "lat": 44.404114,
+    "lon": 26.056771
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 5
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 10,
+    "tags": [
+      "nature",
+      "community",
+      "fishing"
+    ],
+    "lat": 44.429693,
+    "lon": 25.950087
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 4
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 12,
+    "tags": [
+      "wellbeing",
+      "fishing",
+      "plants"
+    ],
+    "lat": 44.359099,
+    "lon": 26.100321
+  },
+  {
+    "title": "Composting 101",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Discover edible wild plants in the heart of the city.",
+    "participants": 5,
+    "tags": [
+      "plants",
+      "wellbeing"
+    ],
+    "lat": 44.355941,
+    "lon": 26.272239
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 3
+    },
+    "description": "Discover edible wild plants in the heart of the city.",
+    "participants": 13,
+    "tags": [
+      "gardening",
+      "permaculture"
+    ],
+    "lat": 44.460118,
+    "lon": 26.095003
+  },
+  {
+    "title": "Fishing Basics by the Lake",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 8,
+    "tags": [
+      "gardening",
+      "fishing"
+    ],
+    "lat": 44.386437,
+    "lon": 25.997924
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 5
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 13,
+    "tags": [
+      "wellbeing",
+      "gardening",
+      "walking"
+    ],
+    "lat": 44.40894,
+    "lon": 26.216223
+  },
+  {
+    "title": "Park Picnic & Plant ID",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 4
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 3,
+    "tags": [
+      "fishing",
+      "wellbeing",
+      "community"
+    ],
+    "lat": 44.406169,
+    "lon": 26.019418
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 5
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 11,
+    "tags": [
+      "foraging",
+      "gardening",
+      "fishing"
+    ],
+    "lat": 44.435884,
+    "lon": 25.97969
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 3
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 17,
+    "tags": [
+      "plants",
+      "nature"
+    ],
+    "lat": 44.535292,
+    "lon": 26.031832
+  },
+  {
+    "title": "Gardening Workshop",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 5
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 20,
+    "tags": [
+      "plants",
+      "fishing",
+      "gardening"
+    ],
+    "lat": 44.508988,
+    "lon": 26.299538
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 3
+    },
+    "description": "A group stroll to enjoy and photograph urban flora.",
+    "participants": 7,
+    "tags": [
+      "fishing",
+      "community",
+      "wellbeing"
+    ],
+    "lat": 44.506424,
+    "lon": 26.265301
+  },
+  {
+    "title": "Composting 101",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 5
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 18,
+    "tags": [
+      "walking",
+      "fishing",
+      "community"
+    ],
+    "lat": 44.535858,
+    "lon": 26.212665
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Join us for a peaceful afternoon learning about plants.",
+    "participants": 11,
+    "tags": [
+      "walking",
+      "fishing",
+      "wellbeing",
+      "nature"
+    ],
+    "lat": 44.367473,
+    "lon": 26.065938
+  },
+  {
+    "title": "Composting 101",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 4
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 9,
+    "tags": [
+      "foraging",
+      "fishing",
+      "wellbeing",
+      "walking"
+    ],
+    "lat": 44.473125,
+    "lon": 26.269465
+  },
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 15,
+    "tags": [
+      "foraging",
+      "plants",
+      "fishing"
+    ],
+    "lat": 44.504219,
+    "lon": 26.274348
+  },
+  {
+    "title": "Wildflower Spotting",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 5
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 6,
+    "tags": [
+      "gardening",
+      "permaculture",
+      "plants"
+    ],
+    "lat": 44.539882,
+    "lon": 25.972414
+  },
+  {
+    "title": "Park Picnic & Plant ID",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 3
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 7,
+    "tags": [
+      "walking",
+      "permaculture",
+      "community"
+    ],
+    "lat": 44.40153,
+    "lon": 26.152801
+  },
+  {
+    "title": "Fishing Basics by the Lake",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 4
+    },
+    "description": "Discover edible wild plants in the heart of the city.",
+    "participants": 11,
+    "tags": [
+      "wellbeing",
+      "community",
+      "plants",
+      "gardening"
+    ],
+    "lat": 44.412957,
+    "lon": 26.038097
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 3
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 13,
+    "tags": [
+      "fishing",
+      "gardening",
+      "plants",
+      "foraging"
+    ],
+    "lat": 44.522589,
+    "lon": 26.212213
+  },
+  {
+    "title": "Composting 101",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 4
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 7,
+    "tags": [
+      "wellbeing",
+      "community",
+      "plants",
+      "gardening"
+    ],
+    "lat": 44.465913,
+    "lon": 26.257098
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 3
+    },
+    "description": "Let\u2019s learn and relax surrounded by nature.",
+    "participants": 4,
+    "tags": [
+      "walking",
+      "fishing",
+      "community",
+      "wellbeing"
+    ],
+    "lat": 44.488006,
+    "lon": 26.217565
+  },
+  {
+    "title": "Fishing Basics by the Lake",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 4
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 4,
+    "tags": [
+      "plants",
+      "walking",
+      "nature"
+    ],
+    "lat": 44.544084,
+    "lon": 26.015477
+  },
+  {
+    "title": "Wildflower Spotting",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 7,
+    "tags": [
+      "community",
+      "nature"
+    ],
+    "lat": 44.416314,
+    "lon": 26.055637
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 3
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 4,
+    "tags": [
+      "foraging",
+      "wellbeing",
+      "permaculture",
+      "nature"
+    ],
+    "lat": 44.413448,
+    "lon": 26.252343
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 5
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 16,
+    "tags": [
+      "wellbeing",
+      "gardening",
+      "fishing"
+    ],
+    "lat": 44.504235,
+    "lon": 26.080731
+  },
+  {
+    "title": "Composting 101",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 4
+    },
+    "description": "Let\u2019s learn and relax surrounded by nature.",
+    "participants": 15,
+    "tags": [
+      "gardening",
+      "community",
+      "walking",
+      "nature"
+    ],
+    "lat": 44.37662,
+    "lon": 26.131157
+  },
+  {
+    "title": "Composting 101",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 3
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 16,
+    "tags": [
+      "walking",
+      "plants",
+      "nature"
+    ],
+    "lat": 44.351941,
+    "lon": 26.076633
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 4
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 6,
+    "tags": [
+      "community",
+      "fishing",
+      "wellbeing"
+    ],
+    "lat": 44.543203,
+    "lon": 26.085253
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 3
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 9,
+    "tags": [
+      "wellbeing",
+      "foraging",
+      "nature",
+      "plants"
+    ],
+    "lat": 44.357349,
+    "lon": 26.183272
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 4
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 10,
+    "tags": [
+      "gardening",
+      "plants",
+      "walking",
+      "fishing"
+    ],
+    "lat": 44.463071,
+    "lon": 26.154872
+  },
+  {
+    "title": "Gardening Workshop",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 4
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 9,
+    "tags": [
+      "gardening",
+      "nature"
+    ],
+    "lat": 44.380941,
+    "lon": 26.182559
+  },
+  {
+    "title": "Park Picnic & Plant ID",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 3
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 4,
+    "tags": [
+      "permaculture",
+      "foraging",
+      "nature"
+    ],
+    "lat": 44.457572,
+    "lon": 26.091812
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 5
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 17,
+    "tags": [
+      "community",
+      "fishing",
+      "gardening",
+      "walking"
+    ],
+    "lat": 44.546701,
+    "lon": 26.033627
+  },
+  {
+    "title": "Gardening Workshop",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 4
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 8,
+    "tags": [
+      "plants",
+      "gardening",
+      "nature"
+    ],
+    "lat": 44.536299,
+    "lon": 26.092167
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 5
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 8,
+    "tags": [
+      "fishing",
+      "wellbeing"
+    ],
+    "lat": 44.532125,
+    "lon": 26.104531
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 3
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 9,
+    "tags": [
+      "foraging",
+      "walking",
+      "wellbeing",
+      "community"
+    ],
+    "lat": 44.393545,
+    "lon": 26.080393
+  },
+  {
+    "title": "Gardening Workshop",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 4
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 13,
+    "tags": [
+      "gardening",
+      "plants"
+    ],
+    "lat": 44.492198,
+    "lon": 26.275364
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 5
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 17,
+    "tags": [
+      "plants",
+      "wellbeing",
+      "gardening"
+    ],
+    "lat": 44.435299,
+    "lon": 26.269432
+  },
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 5
+    },
+    "description": "Discover edible wild plants in the heart of the city.",
+    "participants": 2,
+    "tags": [
+      "gardening",
+      "plants"
+    ],
+    "lat": 44.513314,
+    "lon": 26.144066
+  },
+  {
+    "title": "Fishing Basics by the Lake",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 3
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 11,
+    "tags": [
+      "nature",
+      "walking",
+      "gardening",
+      "community"
+    ],
+    "lat": 44.481864,
+    "lon": 26.1322
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 5
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 19,
+    "tags": [
+      "permaculture",
+      "wellbeing",
+      "nature"
+    ],
+    "lat": 44.374057,
+    "lon": 25.981954
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 3
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 15,
+    "tags": [
+      "walking",
+      "fishing"
+    ],
+    "lat": 44.415348,
+    "lon": 26.015696
+  },
+  {
+    "title": "Park Picnic & Plant ID",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 4
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 11,
+    "tags": [
+      "walking",
+      "permaculture"
+    ],
+    "lat": 44.368067,
+    "lon": 25.983755
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 5
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 5,
+    "tags": [
+      "community",
+      "plants",
+      "wellbeing"
+    ],
+    "lat": 44.510782,
+    "lon": 26.250933
+  },
+  {
+    "title": "Park Picnic & Plant ID",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 4
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 3,
+    "tags": [
+      "walking",
+      "community"
+    ],
+    "lat": 44.442605,
+    "lon": 26.024072
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 5
+    },
+    "description": "Let\u2019s learn and relax surrounded by nature.",
+    "participants": 10,
+    "tags": [
+      "community",
+      "foraging",
+      "walking",
+      "nature"
+    ],
+    "lat": 44.453615,
+    "lon": 26.085318
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 5
+    },
+    "description": "Join us for a peaceful afternoon learning about plants.",
+    "participants": 4,
+    "tags": [
+      "community",
+      "walking",
+      "nature",
+      "foraging"
+    ],
+    "lat": 44.446406,
+    "lon": 26.090936
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 4
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 6,
+    "tags": [
+      "plants",
+      "wellbeing"
+    ],
+    "lat": 44.498591,
+    "lon": 26.029678
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 3
+    },
+    "description": "Discover edible wild plants in the heart of the city.",
+    "participants": 3,
+    "tags": [
+      "permaculture",
+      "community",
+      "gardening"
+    ],
+    "lat": 44.357366,
+    "lon": 26.006822
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 4
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 11,
+    "tags": [
+      "gardening",
+      "nature"
+    ],
+    "lat": 44.355543,
+    "lon": 26.023256
+  },
+  {
+    "title": "Wildflower Spotting",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 4
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 9,
+    "tags": [
+      "walking",
+      "wellbeing",
+      "permaculture",
+      "plants"
+    ],
+    "lat": 44.543679,
+    "lon": 26.166573
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 3
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 18,
+    "tags": [
+      "community",
+      "nature",
+      "plants",
+      "fishing"
+    ],
+    "lat": 44.445619,
+    "lon": 25.994244
+  },
+  {
+    "title": "Fishing Basics by the Lake",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 5
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 4,
+    "tags": [
+      "foraging",
+      "plants",
+      "community"
+    ],
+    "lat": 44.415048,
+    "lon": 26.073378
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 5
+    },
+    "description": "Relax and connect with nature while enjoying good company.",
+    "participants": 6,
+    "tags": [
+      "permaculture",
+      "fishing",
+      "gardening"
+    ],
+    "lat": 44.423831,
+    "lon": 26.234796
+  },
+  {
+    "title": "Composting 101",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 9,
+    "tags": [
+      "foraging",
+      "nature"
+    ],
+    "lat": 44.45596,
+    "lon": 25.973691
+  },
+  {
+    "title": "Wildflower Spotting",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 4
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 10,
+    "tags": [
+      "fishing",
+      "foraging"
+    ],
+    "lat": 44.547271,
+    "lon": 26.271447
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 4
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 11,
+    "tags": [
+      "foraging",
+      "community",
+      "walking"
+    ],
+    "lat": 44.39601,
+    "lon": 26.064566
+  },
+  {
+    "title": "Fishing Basics by the Lake",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 5
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 12,
+    "tags": [
+      "permaculture",
+      "walking"
+    ],
+    "lat": 44.527739,
+    "lon": 26.165779
+  },
+  {
+    "title": "Composting 101",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 4
+    },
+    "description": "A group stroll to enjoy and photograph urban flora.",
+    "participants": 12,
+    "tags": [
+      "plants",
+      "walking",
+      "gardening",
+      "permaculture"
+    ],
+    "lat": 44.493746,
+    "lon": 26.04636
+  },
+  {
+    "title": "Fishing Basics by the Lake",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 3
+    },
+    "description": "Let\u2019s learn and relax surrounded by nature.",
+    "participants": 6,
+    "tags": [
+      "nature",
+      "gardening",
+      "foraging",
+      "walking"
+    ],
+    "lat": 44.480494,
+    "lon": 26.119476
+  },
+  {
+    "title": "Wildflower Spotting",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 5
+    },
+    "description": "Help clean and revitalize our beloved green areas.",
+    "participants": 15,
+    "tags": [
+      "fishing",
+      "plants",
+      "permaculture",
+      "wellbeing"
+    ],
+    "lat": 44.510088,
+    "lon": 25.980725
+  },
+  {
+    "title": "Wildflower Spotting",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 5
+    },
+    "description": "A group stroll to enjoy and photograph urban flora.",
+    "participants": 17,
+    "tags": [
+      "foraging",
+      "plants",
+      "nature",
+      "permaculture"
+    ],
+    "lat": 44.35924,
+    "lon": 26.073307
+  },
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "GreenBucharest",
+      "rating": 3
+    },
+    "description": "Learn to fish sustainably in Bucharest\u2019s waterways.",
+    "participants": 8,
+    "tags": [
+      "wellbeing",
+      "gardening",
+      "fishing",
+      "permaculture"
+    ],
+    "lat": 44.455981,
+    "lon": 26.169017
+  },
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 3
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 4,
+    "tags": [
+      "permaculture",
+      "plants"
+    ],
+    "lat": 44.458526,
+    "lon": 25.971561
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 5
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 13,
+    "tags": [
+      "nature",
+      "walking",
+      "plants"
+    ],
+    "lat": 44.398263,
+    "lon": 26.20921
+  },
+  {
+    "title": "Wildflower Spotting",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 4
+    },
+    "description": "A group stroll to enjoy and photograph urban flora.",
+    "participants": 13,
+    "tags": [
+      "fishing",
+      "gardening"
+    ],
+    "lat": 44.452504,
+    "lon": 26.02689
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 2,
+    "tags": [
+      "wellbeing",
+      "gardening",
+      "fishing",
+      "walking"
+    ],
+    "lat": 44.46795,
+    "lon": 26.242438
+  },
+  {
+    "title": "Gardening Workshop",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 4
+    },
+    "description": "Share tips and seeds with fellow nature lovers.",
+    "participants": 8,
+    "tags": [
+      "nature",
+      "walking",
+      "plants"
+    ],
+    "lat": 44.469674,
+    "lon": 26.036817
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 3
+    },
+    "description": "Discover edible wild plants in the heart of the city.",
+    "participants": 2,
+    "tags": [
+      "foraging",
+      "fishing",
+      "plants"
+    ],
+    "lat": 44.42235,
+    "lon": 26.055479
+  },
+  {
+    "title": "Green Thumb Meetup",
+    "provider": {
+      "name": "Nature Friends",
+      "rating": 3
+    },
+    "description": "A group stroll to enjoy and photograph urban flora.",
+    "participants": 3,
+    "tags": [
+      "permaculture",
+      "gardening"
+    ],
+    "lat": 44.527494,
+    "lon": 25.970181
+  },
+  {
+    "title": "Urban Foraging Walk",
+    "provider": {
+      "name": "EcoSteps Bucharest",
+      "rating": 5
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 7,
+    "tags": [
+      "community",
+      "walking",
+      "nature"
+    ],
+    "lat": 44.464947,
+    "lon": 26.035854
+  },
+  {
+    "title": "Riverbank Cleanup",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 5
+    },
+    "description": "Dive into composting methods and garden enrichment.",
+    "participants": 18,
+    "tags": [
+      "nature",
+      "wellbeing"
+    ],
+    "lat": 44.437359,
+    "lon": 26.019108
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 5
+    },
+    "description": "Harvest herbs for health and flavor.",
+    "participants": 15,
+    "tags": [
+      "walking",
+      "foraging"
+    ],
+    "lat": 44.546878,
+    "lon": 26.1815
+  },
+  {
+    "title": "Herbal Tea Gathering",
+    "provider": {
+      "name": "Urban Roots Collective",
+      "rating": 5
+    },
+    "description": "Join us for a peaceful afternoon learning about plants.",
+    "participants": 20,
+    "tags": [
+      "community",
+      "wellbeing",
+      "gardening",
+      "walking"
+    ],
+    "lat": 44.534588,
+    "lon": 26.214238
+  },
+  {
+    "title": "Evening Nature Walk",
+    "provider": {
+      "name": "PermaPeople RO",
+      "rating": 4
+    },
+    "description": "Join us for a peaceful afternoon learning about plants.",
+    "participants": 5,
+    "tags": [
+      "gardening",
+      "plants"
+    ],
+    "lat": 44.350551,
+    "lon": 26.024787
+  }
+]

@@ -1,19 +1,15 @@
 import { Marker, Popup } from "react-leaflet";
-import events from "../data/events.json"; // Adjust the path as needed
+// import events from "../data/events.json"; // Adjust the path as needed
 import L from "leaflet";
 
-const EventMarkers = () => {
+const EventMarkers = ({events}) => {
+    console.log(events)
     return (
         <>
             {events.map((event, index) => (
                 <Marker
                     key={index}
-                    position={[event.lat, event.lon]}
-                    icon={L.icon({
-                        iconUrl: event.provider.icon,
-                        iconSize: [30, 30],
-                        iconAnchor: [15, 30],
-                    })}
+                    position={[event.lat, event.lon]}            
                 >
                     <Popup>
                         <div className="w-64">

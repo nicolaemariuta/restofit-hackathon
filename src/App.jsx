@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { loadNDVI, loadNO2, loadO3, loadCLM,loadEvents } from './utils/dataLoader'
+import { loadNDVI, loadNO2, loadO3, loadCLM,loadEvents, loadEvents2 } from './utils/dataLoader'
 
 import Header from './components/Header'
 import MapView from './components/MapView'
@@ -39,7 +39,7 @@ function App() {
       const no2 = await loadNO2(settings.city);
       const o3 = await loadO3(settings.city);
       const clm = await loadCLM(settings.city);
-      const events = await loadEvents();
+      const events = await loadEvents2(settings.city);
       setData({ ndvi, no2, o3, clm, events });
     }
 
