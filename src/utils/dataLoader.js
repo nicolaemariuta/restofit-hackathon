@@ -38,6 +38,20 @@ export async function loadO3(cityCode) {
 }
 
 
+export async function loadCLM(cityCode) {
+  if (cityCode === "BUC") {
+    const data = await import("../data2/clm_grid_bucharest.json");
+    return data.default;
+  }
+  if (cityCode === "CPH") {
+    const data = await import("../data2/clm_grid_copenhagen.json");
+    return data.default;
+  }
+  // Add other cities later...
+  return null;
+}
+
+
 export async function loadEvents() {
   // if (cityCode === "CPH") {
     const data = await import("../data/events.json");

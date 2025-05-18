@@ -5,7 +5,8 @@ import L from 'leaflet';
 import { Circle } from "react-leaflet";
 import { useState, useEffect } from 'react';
 
-import { findClosestNDVI, getNO2ValueFromGrid } from '../utils/dataSearch';
+import { findClosestNDVI, getNO2ValueFromGrid, getWeatherForecast } from '../utils/dataSearch';
+import { getNoise } from '../utils/apis';
 
 import RecenterMap from './RecenterMap'
 import EventMarkers from './EventMarkers'
@@ -59,7 +60,7 @@ function getO3Color(value) {
 export default function MapView({ measurements, onMeasurementsChange, settings, data }) {
   const [markerPosition, setMarkerPosition] = useState(null);
 
-  const handleMapClick = ({ lat, lon }) => {
+  const handleMapClick = async ({ lat, lon }) => {
     console.log("handleMapClick" + lat + ",,," + lon)
     setMarkerPosition([lat, lon]);
 
@@ -70,11 +71,25 @@ export default function MapView({ measurements, onMeasurementsChange, settings, 
     const no2Value = data.no2 ? getNO2ValueFromGrid(data.no2, lat, lon) : null;
     const o3Value = data.o3 ? getNO2ValueFromGrid(data.o3, lat, lon) : null;
 
+
+    const noise = await getNoise(lat, lon)
+
+    const clm = data.clm ? getNO2ValueFromGrid(data.clm, lat, lon) : null;
+
+    console.log("clm:" + clm)
+    const forecast = getWeatherForecast(clm)
+    console.log("forecast:" + forecast)
+
+    console.log("Noise: " + noise)
+
+
     onMeasurementsChange({
       ...measurements,
       NDVI: ndviValue,
       NO2: no2Value,
       O3: o3Value,
+      noise: noise,
+      weather: forecast,
       coords: { lat, lon }
     });
   };
@@ -83,6 +98,7 @@ export default function MapView({ measurements, onMeasurementsChange, settings, 
     console.log("NDVI Points:", data.ndvi);
     console.log("NO2 Grid:", data.no2);
     console.log("O3 Grid:", data.o3);
+    console.log("CLM:", data.clm);
     console.log("Events:", data.events);
   }, [data]);
 
@@ -209,6 +225,45 @@ export default function MapView({ measurements, onMeasurementsChange, settings, 
 
           return rectangles;
         })()}
+
+
+        {/* Drawing Weather overlay */}
+        {(settings.layer === "WEATHER") && data.no2 && (() => {
+          const { bbox, rows, cols, data: weatherData } = data.clm;
+          const [minLon, minLat, maxLon, maxLat] = bbox;
+
+          const latStep = (maxLat - minLat) / rows;
+          const lonStep = (maxLon - minLon) / cols;
+
+          const rectangles = [];
+
+          for (let row = 0; row < rows; row++) {
+            for (let col = 0; col < cols; col++) {
+              const value = weatherData[row][col];
+
+              const bounds = [
+                [minLat + row * latStep, minLon + col * lonStep],
+                [minLat + (row + 1) * latStep, minLon + (col + 1) * lonStep],
+              ];
+
+              rectangles.push(
+                <Rectangle
+                  key={`${row}-${col}`}
+                  bounds={bounds}
+                  pathOptions={{
+                    color: getO3Color(value),
+                    fillColor: getO3Color(value),
+                    fillOpacity: 0.6,
+                    weight: 0,
+                  }}
+                />
+              );
+            }
+          }
+
+          return rectangles;
+        })()}
+
 
 
       </MapContainer>

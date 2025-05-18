@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { loadNDVI, loadNO2, loadO3, loadEvents } from './utils/dataLoader'
+import { loadNDVI, loadNO2, loadO3, loadCLM,loadEvents } from './utils/dataLoader'
 
 import Header from './components/Header'
 import MapView from './components/MapView'
@@ -14,6 +14,8 @@ function App() {
     NDVI: null,
     NO2: null,
     O3: null,
+    weather: null,
+    noise: null,
   })
 
   const [settings, setSettings] = useState({
@@ -27,6 +29,7 @@ function App() {
     ndvi: [],
     no2: null,
     o3: null,
+    clm: null,
     events: []
   });
 
@@ -35,8 +38,9 @@ function App() {
       const ndvi = await loadNDVI(settings.city);
       const no2 = await loadNO2(settings.city);
       const o3 = await loadO3(settings.city);
+      const clm = await loadCLM(settings.city);
       const events = await loadEvents();
-      setData({ ndvi, no2, o3, events });
+      setData({ ndvi, no2, o3, clm, events });
     }
 
     fetchData();
