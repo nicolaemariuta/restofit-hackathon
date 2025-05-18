@@ -4,6 +4,7 @@ import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
 import { Circle } from "react-leaflet";
 import { useState, useEffect } from 'react';
+import { greenIcon } from '../utils/mapui';
 
 import { findClosestNDVI, getNO2ValueFromGrid, getWeatherForecast } from '../utils/dataSearch';
 import { getNoise } from '../utils/apis';
@@ -124,7 +125,7 @@ export default function MapView({ measurements, onMeasurementsChange, settings, 
 
         {/* Show marker only if one is set */}
         {markerPosition && (
-          <Marker position={markerPosition}>
+          <Marker position={markerPosition} icon={greenIcon}>
             <Popup>
               Selected: {markerPosition[0] && markerPosition[1]
                 ? `${markerPosition[0].toFixed(5)}, ${markerPosition[1].toFixed(5)}`
