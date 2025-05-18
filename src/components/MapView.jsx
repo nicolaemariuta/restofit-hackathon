@@ -118,7 +118,7 @@ export default function MapView({ measurements, onMeasurementsChange, settings, 
 
         <RecenterMap city={settings.city} />
 
-        <EventMarkers events = {data.events}/>
+        <EventMarkers events = {data.events} markerPosition={markerPosition}/>
 
         <ClickHandler onClick={handleMapClick} />
 
