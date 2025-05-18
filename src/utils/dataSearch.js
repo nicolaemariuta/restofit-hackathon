@@ -34,3 +34,14 @@ export function getNO2ValueFromGrid(grid, lat, lon) {
 
   return data[row][col];
 }
+
+// Converts normalized CLM value [0, 1] to a weather forecast description
+export function getWeatherForecast(clmValue) {
+  if (clmValue === null || clmValue === undefined) return "Unknown";
+
+  if (clmValue > 0.85) return "Overcast";
+  if (clmValue > 0.65) return "Cloudy";
+  if (clmValue > 0.4) return "Partly Cloudy";
+  if (clmValue > 0.15) return "Mostly Clear";
+  return "Clear";
+}

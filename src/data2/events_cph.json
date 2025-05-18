@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Summer prep: Weeding, Tidy-up and Handwritten plant labels",
+    "provider": {
+      "name": "Permahaven Community",
+      "rating": 5
+    },
+    "description": "Join us for a day of weeding and taking care of our garden at CBS!",
+    "participants": 5,
+    "tags": ["gardening", "community", "permaculture"],
+    "lat": 55.6822,
+    "lon": 12.5245
+  },
+  {
+    "title": "Social afternoon in the garden",
+    "provider": {
+      "name": "Valbyhave - Permaculture Garden",
+      "rating": 5
+    },
+    "description": "Join us for a day of taking care of our beautiful harden and socialize!",
+    "participants": 5,
+    "tags": ["gardening", "community", "permaculture"],
+    "lat": 55.6610,
+    "lon": 12.5182
+  },
+  {
+    "title": "Guided tour to Organic Farm and Stawberry Harvest!",
+    "provider": {
+      "name": "Nicolae",
+      "rating": 5
+    },
+    "description": "We take the Central Station, walk 3km to the farm and I will show you how the farm grows sustainably 3000 chicken, 140 types of vegetables, and 20 cows. The, each will harvest his own box of stawberries!",
+    "participants": 10,
+    "tags": ["farming", "harvesting", "hiking"],
+    "lat": 55.673,
+    "lon": 12.566
+  },
+  {
+    "title": "Harbor fishing adventure!",
+    "provider": {
+      "name": "Nicolae",
+      "rating": 5
+    },
+    "description": "I have 10 years of experience fishing in copenhagen and I can hopefully get you to catch some hornfisk!",
+    "participants": 2,
+    "tags": ["fishing", "sea", "water"],
+    "lat": 55.7133,
+    "lon": 12.6176
+  }
+]
