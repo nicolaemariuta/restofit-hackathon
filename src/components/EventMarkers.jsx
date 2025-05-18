@@ -76,7 +76,7 @@ const EventMarkers = ({events, markerPosition}) => {
                                 {event.description}
                             </div>
                             <div className="mt-2">
-                                <button className="cursor-pointer bg-green-300 hover:bg-green-600 text-white py-2 text-center w-full rounded-lg">
+                                <button className="cursor-pointer bg-green-400 hover:bg-green-600 text-white py-2 text-center w-full rounded-lg">
                                     Register to event
                                 </button>
                                 <button className="mt-2 cursor-pointer bg-yellow-300 hover:bg-yellow-500 text-white py-2 text-center w-full rounded-lg">
